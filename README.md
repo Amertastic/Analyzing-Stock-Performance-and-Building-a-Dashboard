@@ -38,3 +38,17 @@ The concept of short selling will also be explored in this project. Short sellin
 - Requests
 - Plotly Dash
 - Jupyter Notebook
+
+### Data Collection Overview
+
+To collect the necessary financial data for this project, we utilized web scraping and APIs to gather information on four stocks: Apple, Netflix, Tesla, and GameStop. We used the BeautifulSoup library to extract data from HTML tables and created a DataFrame for the Apple and Netflix stocks. This data was then visualized in a dashboard to identify patterns and trends, with key performance indicators displayed using Plotly for data visualization. For the historical stock prices of the Tesla and GameStop stocks, we extracted the data from Yahoo Finance using the yfinance library in Python.
+
+### Dashboard Output
+
+<p align="right">
+  <img src="https://github.com/Amertastic/Analyzing-Stock-Performance-and-Building-a-Dashboard/blob/main/Images/GameStop%20Stock%20Graph.png">
+</p>
+
+<p align="left">
+  <img src="https://github.com/Amertastic/Analyzing-Stock-Performance-and-Building-a-Dashboard/blob/main/Images/GameStop%20Stock%20Graph.png">
+</p>
