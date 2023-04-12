@@ -50,5 +50,5 @@ To collect the necessary financial data for this project, we utilized web scrapi
 </p>
 
 <p align="left">
-  <img src="https://github.com/Amertastic/Analyzing-Stock-Performance-and-Building-a-Dashboard/blob/main/Images/GameStop%20Stock%20Graph.png">
+  <img src="https://github.com/Amertastic/Analyzing-Stock-Performance-and-Building-a-Dashboard/blob/main/Images/Tesla%20Stock%20Graph.png">
 </p>
