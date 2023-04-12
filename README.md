@@ -2,7 +2,7 @@
 Analyzing Stock Performance and Building a Dashboard [Achieved 100%]
 
 <p align="center">
-  <img width="150" height="150" src="https://github.com/Amertastic/Applied-Data-Science-Capstone/blob/main/Images/Applied%20Data%20Science%20Capstone.png?raw=true">
+  <img width="150" height="150" src="https://github.com/Amertastic/Analyzing-Stock-Performance-and-Building-a-Dashboard/blob/main/Images/Python_Project_for_Data_Science.png?raw=true">
 </p>
 
 ## Table of Contents
